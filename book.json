@@ -1,0 +1,19 @@
+{
+  "gitbook": ">3.0.0",
+  "plugins": ["edit-link", "prism", "theme-vuejs@git+https://github.com/pearofducks/gitbook-plugin-theme-vuejs.git", "-fontsettings", "-highlight", "github"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/vinicius73/guia-de-estudos",
+      "label": "Editar esta página"
+    },
+    "github": {
+      "url": "https://github.com/vinicius73/guia-de-estudos"
+    }
+  },
+  "links": {
+    "sharing": {
+      "facebook": true,
+      "twitter": true
+    }
+  }
+}
