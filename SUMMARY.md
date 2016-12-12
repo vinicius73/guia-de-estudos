@@ -1,4 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introdução](README.md)
+* [JavaScript](javascript.md)
 
