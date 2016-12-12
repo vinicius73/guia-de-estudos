@@ -1,3 +1,4 @@
 # Guia de Estudos
-> Guia de estudos para devs iniciantes
+
+Um índice de assuntos para quem quer esta começando 
 
